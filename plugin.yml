@@ -1,0 +1,6 @@
+name: HCFactionist
+main: AcNEO\HCFactionist\Main
+version: 1.0.0
+api: 3.0.0-ALPHA11
+authors: [AcNEO, HyGlobalHD]
+description: Taking First Step In Making Hard Code Faction Plugin For Pocketmine-MP
