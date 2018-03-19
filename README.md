@@ -1,4 +1,4 @@
-# [![](https://avatars0.githubusercontent.com/u/34904027?s=70&v=4)](https://github.com/AcNEO/HCFactionist/) HCFactionist [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]((https://github.com/AcNEO/HCFactionist/) [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)]((https://github.com/AcNEO/HCFactionist/blob/master/LICENSE) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://PayPal.me/HyGlobalHD)
+# [![](https://avatars0.githubusercontent.com/u/34904027?s=70&v=4)](https://github.com/AcNEO/HCFactionist/) HCFactionist [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/AcNEO/HCFactionist/) [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://github.com/AcNEO/HCFactionist/blob/master/LICENSE) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://PayPal.me/HyGlobalHD)
 ```
 HCFactionist is a faction plugin for Pocketmine-MP.
 The purpose of this plugin is to make a first step in making a OOP plugin for Faction with many feature.
